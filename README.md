@@ -47,11 +47,16 @@ To launch Opt-Informed-RRT* [Example_modified.ipynb](./algos/Example_modified.ip
 
 ### Examples of runs
 
-https://github.com/Komment314/test_diploma/blob/main/videos/informed-rrt-star-demo.mp4
+<video width="320" height="240" controls>
+  <source src="videos/informed-rrt-star-demo.mp4" type="video/mp4">
+</video>
 
 https://github.com/Komment314/test_diploma/assets/71181179/8687851b-d1c4-4dd5-bfb6-dbc214075364
 
-https://github.com/Komment314/test_diploma/blob/main/videos/opt-informed-rrt-star-demo.mp4
+
+<video width="320" height="240" controls>
+  <source src="videos/opt-informed-rrt-star-demo.mp4" type="video/mp4">
+</video>
 
 https://github.com/Komment314/test_diploma/assets/71181179/10c3a40a-a793-495d-aa12-7b2c01bd83ae
 
