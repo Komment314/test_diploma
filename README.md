@@ -4,16 +4,16 @@ Repository of thesis "Path Planning for High-DOF manipulator" and algorithm "Opt
 # Structure of repository
 
 ### 1. diploma 
-$\\$ Text of diploma in pdf format in russian language
+Text of diploma in pdf format in russian language
 
 ### 2. basics 
-$\\$ Base classes and functions for running algorithms and benchmarking
+Base classes and functions for running algorithms and benchmarking
 
 ### 3. algos 
-$\\$ Algorithms for single run and viewing
+Algorithms for single run and viewing
 
 ### 4. benchmarking 
-$\\$ Benchmarking set-up, its saved results and visualisation
+Benchmarking set-up, its saved results and visualisation
 
 # Installation
 
@@ -49,7 +49,11 @@ To launch Opt-Informed-RRT* [Example_modified.ipynb](./algos/Example_modified.ip
 
 https://github.com/Komment314/test_diploma/blob/main/videos/informed-rrt-star-demo.mp4
 
+https://github.com/Komment314/test_diploma/assets/71181179/8687851b-d1c4-4dd5-bfb6-dbc214075364
+
 https://github.com/Komment314/test_diploma/blob/main/videos/opt-informed-rrt-star-demo.mp4
+
+https://github.com/Komment314/test_diploma/assets/71181179/10c3a40a-a793-495d-aa12-7b2c01bd83ae
 
 # Benchmarking
 
