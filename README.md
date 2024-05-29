@@ -58,11 +58,11 @@ https://github.com/Komment314/test_diploma/blob/main/videos/opt-informed-rrt-sta
 
 
 
-https://github.com/Komment314/test_diploma/assets/71181179/d0379a3d-48d5-413c-94f3-06e245735d15
+<video controls="" width="800" height="500" muted="" loop="" autoplay="">
+<source src="https://github.com/YogangSingh/YogangSingh.github.io/raw/main/MultiUSV_Trim_MP4.mp4" type="video/mp4">
+</video>
 
 
-
-https://github.com/Komment314/test_diploma/assets/71181179/57743c24-6622-4641-a843-31d1f6316309
 
 
 
