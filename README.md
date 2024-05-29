@@ -54,6 +54,19 @@ https://github.com/Komment314/test_diploma/blob/main/videos/informed-rrt-star-de
 https://github.com/Komment314/test_diploma/blob/main/videos/opt-informed-rrt-star-demo.mp4
 
 
+### Examples of runs 2
+
+
+
+https://github.com/Komment314/test_diploma/assets/71181179/d0379a3d-48d5-413c-94f3-06e245735d15
+
+
+
+https://github.com/Komment314/test_diploma/assets/71181179/57743c24-6622-4641-a843-31d1f6316309
+
+
+
+
 # Benchmarking
 
 1. Open [pre_trees.ipynb](./benchmarking/path_finding_for_benckmarking/pre_trees.ipynb), set `n_paths_per_target`, remember this value and run. It will create `n_paths_per_target` pre-RRT* trees for each target. It will take a couple of hours to complete.
