@@ -49,9 +49,9 @@ To launch Opt-Informed-RRT* [Example_modified.ipynb](./algos/Example_modified.ip
 
 
 
-https://github.com/Komment314/test_diploma/blob/main/videos/informed-rrt-star-demo.mp4
+https://github.com/Komment314/test_diploma/videos/informed-rrt-star-demo.mp4
 
-https://github.com/Komment314/test_diploma/blob/main/videos/opt-informed-rrt-star-demo.mp4
+https://github.com/Komment314/test_diploma//videos/opt-informed-rrt-star-demo.mp4
 
 
 # Benchmarking
