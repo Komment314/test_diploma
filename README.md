@@ -49,7 +49,7 @@ To launch Opt-Informed-RRT* [Example_modified.ipynb](./algos/Example_modified.ip
 
 
 
-https://github.com/Komment314/test_diploma/assets/71181179/e18f6948-07e0-48e1-a2c6-aa375ab01df1
+[https://github.com/Komment314/test_diploma/assets/71181179/e18f6948-07e0-48e1-a2c6-aa375ab01df1](https://github.com/Komment314/test_diploma/blob/main/videos/informed-rrt-star-demo.mp4)
 
 
 
